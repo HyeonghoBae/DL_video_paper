@@ -42,6 +42,11 @@ Recurrent Back-Projection Network for Video Super-Resolution [CVPR 2019]
 Large Motion Video Super-Resolution with Dual Subnet and Multi-Stage Communicated
 Upsampling [AAAI 2021]
 
+Video Face Super-Resolution with Motion-Adaptive Feedback Cell [AAAI 2020]
+
+Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancemen [AAAI 2020]
+
+Frame and Feature-Context Video Super-Resolution [AAAI 2019]
 
 
 
@@ -69,6 +74,20 @@ Scale-Space Flow for End-to-End Optimized Video Compression [CVRP 2020]
 
 PointINet: Point Cloud Frame Interpolation Network [AAAI 2021]
  
+Video Frame Interpolation via Deformable Separable Convolution [AAAI 2020]
+
+Channel Attention Is All You Need for Video Frame Interpolation [AAAI 2020]
+
+FISR: Deep Joint Frame Interpolation and Super-Resolution with A Multi-scale Temporal Loss [AAAI 2020], super resolution
+
+Deep Video Frame Interpolation using Cyclic Frame Generation [AAAI 2020]
+
+Cubic LSTMs for Video Prediction [AAAI 2020]
+
+Residual Invertible Spatio-Temporal Network For Video Super-Resolution [AAAI 2019]
+
+
+
  
 
 ### Video analysis
@@ -76,3 +95,9 @@ Robust Consistent Video Depth Estimation [CVPR 2021]
 
 Further Understanding Videos through Adverbs: A New Video Task [AAAI 2020]
 
+FASTER Recurrent Networks for Efficient Video Classification [AAAI 2020]
+
+Ultrafast Video Attention Prediction with Coupled Knowledge Distillation [AAAI 2020]
+
+Discriminative Feature Learning for Unsupervised Video Summarization [AAAI 2020]
+ 
